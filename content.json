@@ -1,5 +1,5 @@
 {
-    "static": {
+  "static": {
     "cont_text": {
       "it": "Qui troverai contatti che possono aiutarti in diversi ambiti.",
       "pt": "Aqui encontrará contactos que podem ajudá-lo em diversas áreas."
@@ -67,12 +67,12 @@
     {
       "lan": "it",
       "title": "Caritas Poliambulatorio",
-      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \n**Contatto**: Giulia \n**Cell** 347 062 5452."
+      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \n**Contatto**: Giulia. \n**Cell** 347 062 5452."
     },
     {
       "lan": "pt",
       "title": "Caritas Poliambulatorio",
-      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \n**Contato**: Giulia \n**Celular**: 347 062 5452 "
+      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \n**Contato**: Giulia. \n**Celular**: 347 062 5452 "
     },
     {
       "lan": "it",
@@ -150,7 +150,7 @@
       "day": "wednesday",
       "title": "Mercoledì - Identità",
       "body": 
-      "SPadre buono, grazie perché mi hai creata unica e irripetibile. Benedici la mia storia e rendila luce per chi si sente smarrito."
+      "Padre buono, grazie perché mi hai creata unica e irripetibile. Benedici la mia storia e rendila luce per chi si sente smarrito."
     },
     {
       "lan": "pt",
@@ -210,7 +210,6 @@
       "title": "Domingo - Alegria",
       "body": "Senhor da alegria, obrigada pelos dons que me deste. Faz com que eu possa viver com gratidão, dançando na vida com o coração livre."
     }
-  ],
-    "test": "Incontri di preghiera"
+  ]
 
 }
